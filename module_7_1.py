@@ -1,4 +1,4 @@
-##"Режимы открытия файлов"#module_7_.py
+##"Режимы открытия файлов"#module_7_1.py
 ##Задача "Учёт товаров":
 #from pprint import pprint
 class Product:
